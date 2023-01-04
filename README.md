@@ -15,7 +15,7 @@ const thai = {
 
   tools: [React, Redux, Node, NextJS, MongoDB, MySQL, Postman],
 
-  cloud: [AWS S3, AWS CloudFront, AWS EC2, AWS EBS, AWS Lambda]
+  cloud: [AWS-S3, AWS-CloudFront, AWS-EC2, AWS-EBS, AWS-Lambda],
 
   challenge: "I am doing the #75DaysOfCode challenge focused on blind 75 from LeetCode"
 }
