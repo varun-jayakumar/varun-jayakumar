@@ -7,7 +7,7 @@ Graduate Student at <i><a href="https://www.linkedin.com/school/northeastern-uni
 
 ## 🚀 A little more about me... 
 ```javascript
-const thai = {
+const varun = {
 
   pronouns: "he" | "him",
   
