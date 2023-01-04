@@ -11,7 +11,7 @@ const thai = {
 
   pronouns: "he" | "him",
   
-  code: [Javascript, Typescript, HTML, CSS, SCSS, Python, Java, C, C++],
+  code: [Javascript, HTML, CSS, SCSS, Python, Java, C, C++],
 
   tools: [React, Redux, Node, NextJS, MongoDB, MySQL, Postman],
 
