@@ -2,8 +2,8 @@
 
 Graduate Student at <i><a href="https://www.linkedin.com/school/northeastern-university/">Northeastern University<a></i>
 
-- 🔭 I’m currently working on MERN stack Projects
-- 🌱 I’m currently learning to build GraphQL API's
+- 🔭 I’m currently working on MERN stack Projects and Microservices
+<!--- (- 🌱 I'm ) -->
 
 ## 🚀 A little more about me... 
 ```javascript
@@ -13,9 +13,11 @@ const varun = {
   
   code: [Javascript, HTML, CSS, SCSS, Python, Java, C, C++],
 
-  tools: [React, Redux, Node, NextJS, MongoDB, MySQL, Postman],
+  tools: [HTML, CSS, SASS, React.js, Next.js, Node.js, Express.js, GraphQL],
 
-  cloud: [AWS-S3, AWS-CloudFront, AWS-EC2, AWS-EBS, AWS-Lambda],
+  cloud: [AWS-S3, AWS-CloudFront, AWS-EC2, AWS-EBS, AWS-Lambda, AWS-CodePipeline, AWS-CodeBuild, AWS-CodeDeploy],
+  
+  datebases: [MySQL, MongoDB, Google-Firestore]
 
   challenge: "I am doing the #75DaysOfCode challenge focused on blind 75 from LeetCode"
 }
