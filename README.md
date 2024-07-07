@@ -27,7 +27,7 @@ const varun = {
 
   Frontend: [HTML, React, CSS3, SASS/SCSS, HTTP, Next.js, Redux, Cypress, Jest],
 
-   Backend: [Node.js, Spring Boot, REST, GraphQL, ExpressJS, Kafka],
+  Backend: [Node.js, Spring Boot, REST, GraphQL, ExpressJS, Kafka],
 
   Cloud: [AWS, GCP, Terraform, Packer, CI/CD, Linux, Kubernetes, Docker],
 
