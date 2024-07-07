@@ -2,6 +2,8 @@
 
 ### Hi, I'm Varun Jayakumar 👋
 
+<a href="https://www.youtube.com/@jvarunbharathi9013"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></img></a>
+
 Graduate Student at <i><a href="https://www.linkedin.com/school/northeastern-university/">Northeastern University</a></i> pursuing Software Engineering Systems
 
 - 🔭 Passionate Software Engineer skilled in the MERN stack, Infrastructure, and building RAG-based LLMs!
@@ -56,3 +58,5 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://myreadme.vercel.app/api/embed/varun-jayakumar?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+![profile-summary-cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=varun-jayakumar&theme=github_dark)
