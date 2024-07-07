@@ -1,7 +1,14 @@
+![](https://komarev.com/ghpvc/?username=varun-jayakumar)
+
 ### Hi, I'm Varun Jayakumar 👋
 
 Graduate Student at <i><a href="https://www.linkedin.com/school/northeastern-university/">Northeastern University<a></i>
 
+## Credentials:
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,react,terraform,python,bash,nodejs,py,js,nextjs,mongodb,mysql,linux,cypress&perline=8)](https://skillicons.dev)
 - 🔭 I’m currently working on MERN stack Projects and Microservices
 <!--- (- 🌱 I'm ) -->
 
@@ -44,3 +51,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+<img src="https://myreadme.vercel.app/api/embed/varun-jayakumar?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
