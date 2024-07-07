@@ -2,13 +2,15 @@
 
 ### Hi, I'm Varun Jayakumar 👋
 
+#### Generative AI | Full Stack | Cloud
+
 <a href="https://www.youtube.com/@jvarunbharathi9013"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></img></a>
 
 Graduate Student at <i><a href="https://www.linkedin.com/school/northeastern-university/">Northeastern University</a></i> pursuing Software Engineering Systems
 
-- 🔭 Passionate Software Engineer skilled in the MERN stack, Infrastructure, and building RAG-based LLMs!
+- 🔭 Passionate Software Engineer skilled in the MERN stack, Infrastructure, and building **RAG-based LLMs**!
 - 🌐 Love creating innovative solutions and deploying scalable cloud architectures.
-- 🌱 Currently mastering full-stack development and exploring the depths of AI & ML.
+- 🌱 Currently mastering full-stack development and exploring the depths of **AI & M**L.
 <!--- (- 🌱 I'm ) -->
 
 ## Credentials:
