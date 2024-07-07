@@ -16,7 +16,9 @@ Graduate Student at <i><a href="https://www.linkedin.com/school/northeastern-uni
 <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/da7e9f4ba80b4f4ba1c5460d34a33f51"><img src="aws_sa.png" alt="Alt text" width="100"></a>
 <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/3L0VM36DBJF41032"><img src="aws_cp.png" alt="Alt text" width="100"></a>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,react,terraform,python,bash,nodejs,py,js,nextjs,mongodb,mysql,linux,cypress&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,react,terraform,python,bash,nodejs,py,js,nextjs,mongodb,mysql,linux,cypress&perline=8)](https://skillicons.dev) 
+
+
 
 ## 🚀 A little more about me...
 
@@ -57,6 +59,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://myreadme.vercel.app/api/embed/varun-jayakumar?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 ![profile-summary-cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=varun-jayakumar&theme=github_dark)
+
+
+<br/>
+<img src="https://myreadme.vercel.app/api/embed/varun-jayakumar?panels=toprepositories,toplanguages" alt="reimaginedreadme" />
+
