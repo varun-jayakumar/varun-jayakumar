@@ -9,7 +9,7 @@
 Graduate Student at <i><a href="https://www.linkedin.com/school/northeastern-university/">Northeastern University</a></i> pursuing Software Engineering Systems
 
 - 🔭 Passionate Software Engineer skilled in the MERN stack, Infrastructure, and building **RAG-based LLMs**!
-- 🌐 Love creating innovative solutions and deploying scalable cloud architectures.
+- 🌐 Love creating innovative solutions by builing **Web applications** and deploying scalable **cloud architectures**.
 - 🌱 Currently mastering full-stack development and exploring the depths of **AI & M**L.
 <!--- (- 🌱 I'm ) -->
 
