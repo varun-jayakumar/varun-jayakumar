@@ -2,7 +2,7 @@
 
 ### Hi, I'm Varun Jayakumar 👋
 
-#### Full Stack | Cloud |Generative AI
+#### Full Stack | Cloud | Generative AI
 
 <a href="https://www.youtube.com/@jvarunbharathi9013"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></img></a>
 
